@@ -1,3 +1,3 @@
 # Design-Patterns
 
-A repositoy for the commonly used design patterns 
+A repository of the commonly used design patterns 
